@@ -1,0 +1,22 @@
+[
+ {
+  "path": "/packages/iot/pahomqtt", 
+  "ver": "latest", 
+  "name": "PAHOMQTT"
+ }, 
+ {
+  "path": "/packages/iot/cJSON", 
+  "ver": "latest", 
+  "name": "CJSON"
+ }, 
+ {
+  "path": "/packages/iot/WiFi/wlan_wiced", 
+  "ver": "latest", 
+  "name": "WLAN_WICED"
+ }, 
+ {
+  "path": "/packages/system/fal", 
+  "ver": "v0.5.0", 
+  "name": "FAL"
+ }
+]
