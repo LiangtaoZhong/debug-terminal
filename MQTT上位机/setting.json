@@ -1,0 +1,7 @@
+{
+    "broker":"129.211.xx.xxx",
+    "port":1883,
+    "client":"ternimal",
+    "passwd":"Mjk2NTE3NDY5MTQ1OTg4dawfwfefseafesfsejk3NjUxMzAyNDA",
+    "topic":"/python/mqtt" 
+}
