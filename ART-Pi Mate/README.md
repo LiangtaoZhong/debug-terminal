@@ -21,4 +21,4 @@
 
 <img src="README_pic/image-20201214214852249.png" alt="image-20201214214852249" style="zoom: 25%;transform:rotate(270deg)" />
 
-<img src="README_pic/image-20201214215212193.png" alt="image-20201214215212193" style="zoom: 20%; transform:rotate(270deg)" />
+![image-20201216211231988](README_pic/image-20201216211231988.png)

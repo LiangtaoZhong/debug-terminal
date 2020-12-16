@@ -60,6 +60,6 @@ json数据打包如下：
 
 确保wifi的ssid以及passwd设置正确后，在终端执行`terminal_init`即可。
 
-<img src="README_pic/image-20201214221413891.png" alt="image-20201214221413891" style="zoom:10%; transform:rotate(270deg)" />
+<img src="README_pic/image-20201216211317187.png" alt="image-20201216211317187" style="zoom:67%;" />
 
 <img src="../MQTT%E4%B8%8A%E4%BD%8D%E6%9C%BA/README_pic/image-20201214213931496.png" alt="image-20201214213931496" style="zoom: 67%;" />
